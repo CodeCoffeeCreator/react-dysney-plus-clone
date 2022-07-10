@@ -61,7 +61,9 @@ const Movies = () => {
 
 export default Movies;
 
-const Container = styled.div``;
+const Container = styled.div`
+  margin-bottom: 5em;
+`;
 
 const Content = styled.div`
   display: grid;

@@ -17,16 +17,16 @@ const ImgSlider = () => {
   return (
     <Carousel {...settings}>
       <Wrap>
-        <img src='/images/slider-avengers.jpg' alt='avengers' />
+        <img src='/images/slider-avengers.JPG' alt='avengers' />
       </Wrap>
       <Wrap>
-        <img src='/images/slider-cars.jpg' alt='cars' />
+        <img src='/images/slider-cars.JPG' alt='cars' />
       </Wrap>
       <Wrap>
-        <img src='/images/slider-starwars.jpg' alt='starwars' />
+        <img src='/images/slider-starwars.JPG' alt='starwars' />
       </Wrap>
       <Wrap>
-        <img src='/images/slider-dc.jpg' alt='dc' />
+        <img src='/images/slider-dc.JPG' alt='dc' />
       </Wrap>
     </Carousel>
   );
